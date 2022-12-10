@@ -1,0 +1,15 @@
+C:\Uni Work\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\bin\Debug\net6.0\Exercise2-TaskB-BSTreeExtended.exe
+C:\Uni Work\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\bin\Debug\net6.0\Exercise2-TaskB-BSTreeExtended.deps.json
+C:\Uni Work\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\bin\Debug\net6.0\Exercise2-TaskB-BSTreeExtended.runtimeconfig.json
+C:\Uni Work\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\bin\Debug\net6.0\Exercise2-TaskB-BSTreeExtended.dll
+C:\Uni Work\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\bin\Debug\net6.0\Exercise2-TaskB-BSTreeExtended.pdb
+C:\Uni Work\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\obj\Debug\net6.0\Exercise2-TaskB-BSTreeExtended.csproj.AssemblyReference.cache
+C:\Uni Work\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\obj\Debug\net6.0\Exercise2-TaskB-BSTreeExtended.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni Work\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\obj\Debug\net6.0\Exercise2-TaskB-BSTreeExtended.AssemblyInfoInputs.cache
+C:\Uni Work\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\obj\Debug\net6.0\Exercise2-TaskB-BSTreeExtended.AssemblyInfo.cs
+C:\Uni Work\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\obj\Debug\net6.0\Exercise2-TaskB-BSTreeExtended.csproj.CoreCompileInputs.cache
+C:\Uni Work\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\obj\Debug\net6.0\Exercise2-TaskB-BSTreeExtended.dll
+C:\Uni Work\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\obj\Debug\net6.0\refint\Exercise2-TaskB-BSTreeExtended.dll
+C:\Uni Work\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\obj\Debug\net6.0\Exercise2-TaskB-BSTreeExtended.pdb
+C:\Uni Work\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\obj\Debug\net6.0\Exercise2-TaskB-BSTreeExtended.genruntimeconfig.cache
+C:\Uni Work\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\Exercise2-TaskB-BSTreeExtended\obj\Debug\net6.0\ref\Exercise2-TaskB-BSTreeExtended.dll
